@@ -1,0 +1,17 @@
+title: "Srivatsa Kundurthy"
+email: "srk247@cornell.edu"
+description: "Personal Website"
+baseurl: ""               # leave empty if deploying at the root
+url: "https://srkvatsa.github.io"  # replace with your GitHub Pages URL
+theme: minima
+
+github_username:  srkvatsa
+
+plugins:
+  - jekyll-feed
+
+
+minima:
+  social_links:
+    - { platform: github,   user_url: "https://github.com/srkvatsa" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/srivatsakundurthy" }

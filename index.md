@@ -1,0 +1,22 @@
+---
+layout: home
+---
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+  <div style="flex: 1 1 45%;">
+    <img src="/assets/img/lp.png" alt="Long-exposure night photograph featuring abstract white light trails in a spherical pattern on a dark urban walkway, illuminated by small ground lights." style="width: 100%; height: auto;" />
+  </div>
+  <div style="flex: 1 1 45%; font-size: 1.2rem;">
+    <p>
+      My passion lies in blending human ingenuity with machine prowess to build intelligent computing systems that answer big questions. And inspire new ones.
+    </p>
+    <p style="text-align: left;">
+      <a href="/about/">About</a> • 
+       <a href="/education/">Education</a> • 
+      <a href="/research/">Research</a> • 
+      <a href="/experience/">Experience</a> • 
+      <a href="https://www.flickr.com/photos/199386251@N04/">Photography</a>
+    </p>
+  </div>
+</div>
+
+
