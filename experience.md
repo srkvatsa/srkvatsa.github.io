@@ -33,3 +33,5 @@ Data Science Intern, Digital Manufacturing
 - Collaborated with scientists to improve analysis workflows for large-scale genomic data.
 
 ---
+
+You can view my full resume [here](../assets/resumes/Srivatsa_Kundurthy_Resume_dist.pdf).

@@ -16,6 +16,7 @@ Recently, I've been
 - researching diffusion models as controls for language generation, under Prof. Kilian Weinberger.
 - building operational systems at Verizon to improve your 5G service.
 
+You can view my resume [here](../assets/resumes/Srivatsa_Kundurthy_Resume_dist.pdf).
 
 **This Summer, I am joining Scale AI as a Forward-Deployed Research Engineer Intern embedded at OpenAI.**
 
