@@ -4,6 +4,13 @@ title: "Research"
 permalink: /research/
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=1uVgvuQAAAAJ&hl=en&oi=ao)
+
+## LAION-5B  
+*The largest open-source image-text dataset – [Outstanding Paper @ NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/file/a1859debfb3b59d094f3504d5ebb6c25-Paper-Datasets_and_Benchmarks.pdf)*
+
+Built infrastructure to process, embed, and benchmark retrieval over the LAION-5B dataset using CLIP. Designed pipelines for preprocessing, chunked embedding generation, and nearest neighbor retrieval using FAISS. Focused on scalable indexing and hybrid search evaluation across multilingual and multimodal document sets.
+
 
 ## LANTERN-RD-RAW  
 *Comprehensive Dataset of Invasive Spotted Lanternfly Imagery*  
@@ -21,10 +28,3 @@ Engaged in research to enhance the efficiency and accuracy of physics-informed n
 
 ---
 
-## INFO 1998: Introduction to Machine Learning  
-*Lecturer for Cornell University's INFO 1998 Course*  
-[Course Website](https://cornelldatascience.github.io/info1998/)
-
-Serving as a lecturer for INFO 1998, a ten-week, one-credit course at Cornell University designed to provide students with a high-level exposure to a wide range of data science techniques and machine learning models. Responsibilities include delivering lectures, developing course materials, and guiding students through assignments and projects.
-
----
